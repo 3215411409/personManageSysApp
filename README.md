@@ -60,6 +60,8 @@ A usability evaluation was conducted with at least two users. The evaluation pro
 
 - **The UI design was carefully crafted considering the principles of Human-Computer Interaction (HCI). The application has a clean and intuitive interface for both the admin and employee sides. Screenshots of the various screens can be found in the pdf.**
 
+---
+
 ## **Troubleshooting**
 
  - **If you encounter any issues during the installation or running of the application, please check the following:**
