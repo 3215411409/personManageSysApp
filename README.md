@@ -27,9 +27,9 @@ This is an Employee Management System developed using Android Studio. The applic
 1. **Clone the repository to your local machine using the following command:**
    ```bash
    git clone https://github.com/3215411409/personManageSysApp
-  2.**Open the project in Android Studio.**
-   3.**Ensure that you have the necessary Android SDK and dependencies installed. You may need to update the Gradle version if there are any compatibility issues.**
-   4.**Sync the project with Gradle to download all the required dependencies.**
+2.**Open the project in Android Studio.**
+3.**Ensure that you have the necessary Android SDK and dependencies installed. You may need to update the Gradle version if there are any compatibility issues.**
+4.**Sync the project with Gradle to download all the required dependencies.**
 
    ---
 
